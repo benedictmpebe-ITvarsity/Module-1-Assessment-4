@@ -1,5 +1,14 @@
 h1{
     color: aqua;
+    font-family: fantasy;
+}
+h2{
+    color: blue;
+    font-family: serif;
+}
+ol{
+    color: blueviolet;
+    font-family: inherit;
 }
 
 table{
